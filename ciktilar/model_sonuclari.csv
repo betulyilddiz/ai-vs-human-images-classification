@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-score,Sure_saniye
+Logistic Regression,0.6056,0.6426,0.4434,0.5248,7.84
+Random Forest,0.89,0.8595,0.9276,0.8923,14.38
+Extra Trees,0.8789,0.8675,0.8891,0.8782,4.69
