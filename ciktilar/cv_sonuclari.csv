@@ -1,0 +1,4 @@
+Model,CV_F1_Mean,CV_F1_Std
+Logistic Regression,0.5271,0.0499
+Random Forest,0.8739,0.0217
+Extra Trees,0.8723,0.022

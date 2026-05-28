@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-score,ROC-AUC,Sure_saniye
+Logistic Regression,0.6,0.6258,0.4615,0.5312,0.5987,219.54
+Random Forest,0.8989,0.8664,0.9389,0.9012,0.9552,355.73
+Extra Trees,0.8844,0.8658,0.905,0.885,0.9493,144.38

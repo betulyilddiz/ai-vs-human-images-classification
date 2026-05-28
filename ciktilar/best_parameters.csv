@@ -1,0 +1,4 @@
+Model,Best_Params
+Logistic Regression,{'C': 10}
+Random Forest,"{'max_depth': None, 'min_samples_split': 2, 'n_estimators': 150}"
+Extra Trees,"{'max_depth': None, 'min_samples_split': 5, 'n_estimators': 100}"
